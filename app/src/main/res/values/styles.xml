@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BYDLauncher" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="text_white">#ffffff</item>
+        <item name="text_black">#000000</item>
+
+        <!-- splash -->
+        <item name="splash_bg">#252525</item>
+        <item name="splash_bg2">#353535</item>
+        <item name="splash_fg">#404040</item>
+    </style>
+</resources>

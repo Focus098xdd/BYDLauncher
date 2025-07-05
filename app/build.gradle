@@ -1,0 +1,53 @@
+plugins {
+    alias(libs.plugins.android.application)
+}
+
+android {
+    signingConfigs {
+        debug {
+            storeFile file('/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/java/keystore/platform.keystore')
+            storePassword 'android'
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+        }
+    }
+    namespace 'com.xstudio.bydlauncher'
+    //noinspection GradleDependency
+    compileSdk 25
+
+    defaultConfig {
+        applicationId "com.xstudio.bydlauncher"
+        minSdk 25
+        //noinspection ExpiredTargetSdkVersion
+        targetSdk 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //noinspection GradleDependency,UseTomlInstead
+    implementation('com.android.support:appcompat-v7:25.1.0')
+    //noinspection GradleDependency,UseTomlInstead
+    implementation('com.android.support:design:25.1.0')
+    //noinspection GradleDependency,UseTomlInstead
+    implementation('com.android.support.constraint:constraint-layout:1.0.2')
+}
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
