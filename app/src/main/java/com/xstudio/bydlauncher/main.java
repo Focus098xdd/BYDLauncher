@@ -18,11 +18,6 @@ public class main extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // It's good practice to set a content view, even if it's simple or empty,
-        // especially if you plan to show Toasts or dialogs before UI is fully hidden.
-        // For a launcher-like app that goes full screen immediately, you might skip it
-        // if hideSystemUI() is called very early and reliably.
-        // setContentView(R.layout.activity_main); // Example if you have a layout
 
         checkAndRequestPermissions();
     }
@@ -78,10 +73,8 @@ public class main extends AppCompatActivity {
             } else {
                 Log.w(TAG, "Some BYD permissions were denied.");
                 Toast.makeText(this, "Required permissions were denied. The application cannot start.", Toast.LENGTH_LONG).show();
-                // Consider how you want to handle this. For a launcher,
-                // denying core permissions might mean it cannot function.
-                // You could finish the activity, or show a more persistent message.
-                finish(); // Example: Exit if permissions are critical and denied.
+
+                finish(); //Exit if permissions are critical and denied.
             }
         }
     }
