@@ -19,6 +19,8 @@ public class main extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         proceedToSplash();
+
+        // note : uncheck this when port to real device
         //checkAndRequestPermissions();
     }
 
