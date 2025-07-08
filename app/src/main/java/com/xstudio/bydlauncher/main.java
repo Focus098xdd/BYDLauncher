@@ -18,8 +18,8 @@ public class main extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-        checkAndRequestPermissions();
+        proceedToSplash();
+        //checkAndRequestPermissions();
     }
 
     private void checkAndRequestPermissions() {
