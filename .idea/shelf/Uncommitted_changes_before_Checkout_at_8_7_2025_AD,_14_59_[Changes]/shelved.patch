@@ -1,0 +1,146 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AndroidLayouts\">\n    <shared>\n      <config>\n        <device id=\"_android_virtual_device_id_BYD_Dolphin\" />\n        <device id=\"desktop_small\" />\n        <device id=\"_device_class_desktop\" />\n      </config>\n    </shared>\n    <layouts>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/drawable/battery_bar.xml\">\n        <config>\n          <theme>@style/Theme.BYDLauncher</theme>\n        </config>\n      </layout>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml\">\n        <config>\n          <theme>@style/Theme.AppCompat</theme>\n        </config>\n      </layout>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml\">\n        <config>\n          <theme>@style/Theme.AppCompat</theme>\n        </config>\n      </layout>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/drawable/shape_square.xml\">\n        <config>\n          <theme>@style/Theme.BYDLauncher</theme>\n        </config>\n      </layout>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml\">\n        <config>\n          <night>night</night>\n          <theme>@style/Theme.BYDLauncher</theme>\n        </config>\n      </layout>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml\">\n        <config>\n          <theme>@style/Theme.BYDLauncher</theme>\n        </config>\n      </layout>\n    </layouts>\n  </component>\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"NONE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"8e6cfbb1-e57d-422c-a1b2-a19917528499\" name=\"Changes\" comment=\"development\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ClangdSettings\">\n    <option name=\"formatViaClangd\" value=\"false\" />\n  </component>\n  <component name=\"ExecutionTargetManager\" SELECTED_TARGET=\"device_and_snapshot_combo_box_target[]\" />\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"BYDLauncher\" type=\"f1a62948:ProjectNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"valueResourceFile\" />\n        <option value=\"Class\" />\n        <option value=\"resourceFile\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"GenerateSignedApkSettings\">\n    <option name=\"KEY_STORE_PATH\" value=\"$PROJECT_DIR$/app/src/main/java/keystore/platform.keystore\" />\n    <option name=\"KEY_ALIAS\" value=\"androiddebugkey\" />\n    <option name=\"REMEMBER_PASSWORDS\" value=\"true\" />\n    <option name=\"BUILD_TARGET_KEY\" value=\"apk\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;Focus098xdd&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/Focus098xdd/BYDLauncher.git&quot;,\n    &quot;accountId&quot;: &quot;c2b2f0e6-f4dd-4200-b025-e974b83279f3&quot;\n  }\n}</component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 6\n}</component>\n  <component name=\"ProjectId\" id=\"2yDH1IZboYSv2wDaRm6bNC4uQbF\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Android App.app.executor&quot;: &quot;Run&quot;,\n    &quot;ApkExportedModule&quot;: &quot;BYDLauncher.app&quot;,\n    &quot;BundleExportedModule&quot;: &quot;BYDLauncher.app&quot;,\n    &quot;ExportApk.ApkPathForBYDLauncher.app&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app&quot;,\n    &quot;ExportBundle.BundlePathForBYDLauncher.app&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,\n    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,\n    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;last_directory_selection&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/java&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/res/layout&quot;,\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\n    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;\n  },\n  &quot;keyToStringList&quot;: {\n    &quot;ChangesTree.GroupingKeys&quot;: [\n      &quot;module&quot;\n    ],\n    &quot;ExportApk.BuildVariants&quot;: [\n      &quot;release&quot;\n    ]\n  }\n}</component>\n  <component name=\"PsdUISettings\">\n    <option name=\"MODULE_TAB\" value=\"Properties\" />\n    <option name=\"LAST_EDITED_SIGNING_CONFIG\" value=\"debug\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/app/src/main/res/layout\" />\n      <recent name=\"$PROJECT_DIR$/app/src/main/res/values\" />\n      <recent name=\"$PROJECT_DIR$/app/src/main/java/com/xstudio\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"app\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\" activateToolWindowBeforeRun=\"false\">\n      <module name=\"BYDLauncher.app\" />\n      <option name=\"ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION\" value=\"1\" />\n      <option name=\"DEPLOY\" value=\"true\" />\n      <option name=\"DEPLOY_APK_FROM_BUNDLE\" value=\"false\" />\n      <option name=\"DEPLOY_AS_INSTANT\" value=\"false\" />\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\n      <option name=\"ALL_USERS\" value=\"false\" />\n      <option name=\"ALWAYS_INSTALL_WITH_PM\" value=\"false\" />\n      <option name=\"ALLOW_ASSUME_VERIFIED\" value=\"false\" />\n      <option name=\"CLEAR_APP_STORAGE\" value=\"false\" />\n      <option name=\"DYNAMIC_FEATURES_DISABLED_LIST\" value=\"\" />\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\n      <option name=\"MODE\" value=\"default_activity\" />\n      <option name=\"RESTORE_ENABLED\" value=\"false\" />\n      <option name=\"RESTORE_FILE\" value=\"\" />\n      <option name=\"RESTORE_FRESH_INSTALL_ONLY\" value=\"false\" />\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\n      <option name=\"TARGET_SELECTION_MODE\" value=\"DEVICE_AND_SNAPSHOT_COMBO_BOX\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_CONFIGURATION_ID\" value=\"-1\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_PROJECT_ID\" value=\"\" />\n      <option name=\"DEBUGGER_TYPE\" value=\"Auto\" />\n      <Auto>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Auto>\n      <Hybrid>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Hybrid>\n      <Java>\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Java>\n      <Native>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Native>\n      <Profilers>\n        <option name=\"ADVANCED_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_CONFIGURATION_NAME\" value=\"Java/Kotlin Method Sample (legacy)\" />\n        <option name=\"STARTUP_NATIVE_MEMORY_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"NATIVE_MEMORY_SAMPLE_RATE_BYTES\" value=\"2048\" />\n      </Profilers>\n      <option name=\"DEEP_LINK\" value=\"\" />\n      <option name=\"ACTIVITY\" value=\"\" />\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\n      <option name=\"SEARCH_ACTIVITY_IN_GLOBAL_SCOPE\" value=\"false\" />\n      <option name=\"SKIP_ACTIVITY_VALIDATION\" value=\"false\" />\n      <method v=\"2\">\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"8e6cfbb1-e57d-422c-a1b2-a19917528499\" name=\"Changes\" comment=\"\" />\n      <created>1749362006813</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1749362006813</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"development\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1751884836691</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1751884836691</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"development\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1751885203372</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1751885203372</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"1\" />\n    <MESSAGE value=\"Test BodyworkCommon\" />\n    <MESSAGE value=\"development\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"development\" />\n  </component>\n  <component name=\"play_dynamic_filters_status\">\n    <option name=\"appIdToCheckInfo\">\n      <map>\n        <entry key=\"com.xstudio.bydlauncher\">\n          <value>\n            <CheckInfo lastCheckTimestamp=\"1751884254028\" />\n          </value>\n        </entry>\n        <entry key=\"com.xstudio.bydlauncher.test\">\n          <value>\n            <CheckInfo lastCheckTimestamp=\"1751884254028\" />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c5e6232c4ff12281f53548248230b86b3ea1f66c)
++++ b/.idea/workspace.xml	(date 1751961487322)
+@@ -3,7 +3,6 @@
+   <component name="AndroidLayouts">
+     <shared>
+       <config>
+-        <device id="_android_virtual_device_id_BYD_Dolphin" />
+         <device id="desktop_small" />
+         <device id="_device_class_desktop" />
+       </config>
+@@ -46,9 +45,7 @@
+     <option name="autoReloadType" value="NONE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8e6cfbb1-e57d-422c-a1b2-a19917528499" name="Changes" comment="development">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="8e6cfbb1-e57d-422c-a1b2-a19917528499" name="Changes" comment="new ui branch" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -57,7 +54,7 @@
+   <component name="ClangdSettings">
+     <option name="formatViaClangd" value="false" />
+   </component>
+-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
++  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/focus/.android/avd/BYD_Dolphin.avd)]" />
+   <component name="ExternalProjectsData">
+     <projectState path="$PROJECT_DIR$">
+       <ProjectState />
+@@ -97,6 +94,11 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="PUSH_AUTO_UPDATE" value="true" />
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+@@ -124,39 +126,39 @@
+   <component name="ProjectViewState">
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+-    &quot;ApkExportedModule&quot;: &quot;BYDLauncher.app&quot;,
+-    &quot;BundleExportedModule&quot;: &quot;BYDLauncher.app&quot;,
+-    &quot;ExportApk.ApkPathForBYDLauncher.app&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app&quot;,
+-    &quot;ExportBundle.BundlePathForBYDLauncher.app&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+-    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;last_directory_selection&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/java&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/res/layout&quot;,
+-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Android App.app.executor": "Run",
++    "ApkExportedModule": "BYDLauncher.app",
++    "BundleExportedModule": "BYDLauncher.app",
++    "ExportApk.ApkPathForBYDLauncher.app": "/Users/focus/AndroidStudioProjects/BYDLauncher/app",
++    "ExportBundle.BundlePathForBYDLauncher.app": "/Users/focus/AndroidStudioProjects/BYDLauncher/app",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.cidr.known.project.marker": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "RunOnceActivity.readMode.enableVisualFormatting": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "cf.first.check.clang-format": "false",
++    "cidr.known.project.marker": "true",
++    "com.google.services.firebase.aqiPopupShown": "true",
++    "git-widget-placeholder": "main__newui",
++    "kotlin-language-version-configured": "true",
++    "last_directory_selection": "/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/java",
++    "last_opened_file_path": "/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/res/layout",
++    "project.structure.last.edited": "Modules",
++    "project.structure.proportion": "0.17",
++    "project.structure.side.proportion": "0.2",
++    "settings.editor.selected.configurable": "preferences.pluginManager"
+   },
+-  &quot;keyToStringList&quot;: {
+-    &quot;ChangesTree.GroupingKeys&quot;: [
+-      &quot;module&quot;
++  "keyToStringList": {
++    "ChangesTree.GroupingKeys": [
++      "module"
+     ],
+-    &quot;ExportApk.BuildVariants&quot;: [
+-      &quot;release&quot;
++    "ExportApk.BuildVariants": [
++      "release"
+     ]
+   }
+-}</component>
++}]]></component>
+   <component name="PsdUISettings">
+     <option name="MODULE_TAB" value="Properties" />
+     <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+@@ -267,7 +269,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1751885203372</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="new ui branch">
++      <option name="closed" value="true" />
++      <created>1751961307444</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1751961307444</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -285,7 +295,8 @@
+     <MESSAGE value="1" />
+     <MESSAGE value="Test BodyworkCommon" />
+     <MESSAGE value="development" />
+-    <option name="LAST_COMMIT_MESSAGE" value="development" />
++    <MESSAGE value="new ui branch" />
++    <option name="LAST_COMMIT_MESSAGE" value="new ui branch" />
+   </component>
+   <component name="play_dynamic_filters_status">
+     <option name="appIdToCheckInfo">
