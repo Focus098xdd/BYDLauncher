@@ -40,14 +40,20 @@
           <theme>@style/Theme.BYDLauncher</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/ex.xml">
+        <config>
+          <theme>@style/Theme.BYDLauncher</theme>
+        </config>
+      </layout>
     </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e6cfbb1-e57d-422c-a1b2-a19917528499" name="Changes" comment="development">
+    <list default="true" id="8e6cfbb1-e57d-422c-a1b2-a19917528499" name="Changes" comment="fix permissionManager.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +63,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/focus/.android/avd/BYD_Dolphin.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -86,6 +92,7 @@
         <option value="valueResourceFile" />
         <option value="Class" />
         <option value="resourceFile" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -139,7 +146,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main__newui&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/java&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/res/layout&quot;,
@@ -267,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751885203372</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix permissionManager.java">
+      <option name="closed" value="true" />
+      <created>1752121584789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752121584789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,19 +300,20 @@
     <MESSAGE value="1" />
     <MESSAGE value="Test BodyworkCommon" />
     <MESSAGE value="development" />
-    <option name="LAST_COMMIT_MESSAGE" value="development" />
+    <MESSAGE value="fix permissionManager.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix permissionManager.java" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
       <map>
         <entry key="com.xstudio.bydlauncher">
           <value>
-            <CheckInfo lastCheckTimestamp="1751884254028" />
+            <CheckInfo lastCheckTimestamp="1752130560661" />
           </value>
         </entry>
         <entry key="com.xstudio.bydlauncher.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1751884254028" />
+            <CheckInfo lastCheckTimestamp="1752130560685" />
           </value>
         </entry>
       </map>
