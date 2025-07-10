@@ -16,11 +16,8 @@ public class permissionManager {
     // permissions list
     private static final String[] permissions = {
             Manifest.permission.BYDAUTO_SPEED_COMMON,
-            Manifest.permission.BYDAUTO_SPEED_GET,
             Manifest.permission.BYDAUTO_GEARBOX_COMMON,
-            Manifest.permission.BYDAUTO_GEARBOX_GET,
-            Manifest.permission.BYDAUTO_BODYWORK_COMMON,
-            Manifest.permission.BYDAUTO_BODYWORK_GET
+            Manifest.permission.BYDAUTO_BODYWORK_COMMON
             // Add any other standard Android permissions you might need here
     };
 
