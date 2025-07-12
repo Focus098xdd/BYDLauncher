@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BYDLauncher</string>
-    <string name="vin_number">เลข VIN ของรถ</string>
-    <string name="model_dolphin">BYD Dolphin</string>
-    <string name="model_atto_3">BYD ATTO 3</string>
-    <string name="model_seal">BYD Seal</string>
-    <string name="model_sealion_6">BYD Sealion 6 DM-i</string>
-    <string name="model_sealion_7">BYD Sealion 7</string>
-    <string name="kmh">KM/H</string>
-    <string name="mph">MPH</string>
+    <string name="kmh">กิโลเมตรต่อ ชม.</string>
+    <string name="mph">ไมล์ต่อ ชม.</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
 </resources>

@@ -9,7 +9,7 @@
       </config>
     </shared>
     <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/battery_bar.xml">
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/button.xml">
         <config>
           <theme>@style/Theme.BYDLauncher</theme>
         </config>
@@ -24,7 +24,7 @@
           <theme>@style/Theme.AppCompat</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/shape_square.xml">
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/drawable/splash_background.xml">
         <config>
           <theme>@style/Theme.BYDLauncher</theme>
         </config>
@@ -40,11 +40,6 @@
           <theme>@style/Theme.BYDLauncher</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/ex.xml">
-        <config>
-          <theme>@style/Theme.BYDLauncher</theme>
-        </config>
-      </layout>
     </layouts>
   </component>
   <component name="AutoImportSettings">
@@ -53,7 +48,17 @@
   <component name="ChangeListManager">
     <list default="true" id="8e6cfbb1-e57d-422c-a1b2-a19917528499" name="Changes" comment="fix permissionManager.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/xstudio/bydlauncher/ui/splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/xstudio/bydlauncher/ui/splash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/battery_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ev_ic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/shape_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splash_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-th/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-th/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +96,8 @@
       <list>
         <option value="valueResourceFile" />
         <option value="Class" />
-        <option value="resourceFile" />
         <option value="layoutResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -149,7 +154,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main__newui&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/res/layout&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/focus/AndroidStudioProjects/BYDLauncher/app/src/main/res/font&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -170,6 +175,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/font" />
       <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
       <recent name="$PROJECT_DIR$/app/src/main/res/values" />
       <recent name="$PROJECT_DIR$/app/src/main/java/com/xstudio" />
@@ -282,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752121584789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix permissionManager.java">
+      <option name="closed" value="true" />
+      <created>1752146876434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752146876434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,12 +322,12 @@
       <map>
         <entry key="com.xstudio.bydlauncher">
           <value>
-            <CheckInfo lastCheckTimestamp="1752130560661" />
+            <CheckInfo lastCheckTimestamp="1752311060055" />
           </value>
         </entry>
         <entry key="com.xstudio.bydlauncher.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1752130560685" />
+            <CheckInfo lastCheckTimestamp="1752311060055" />
           </value>
         </entry>
       </map>

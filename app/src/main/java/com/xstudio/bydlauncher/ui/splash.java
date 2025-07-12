@@ -12,11 +12,11 @@ public class splash extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        new Handler().postDelayed(() -> {
+        /* new Handler().postDelayed(() -> {
             Intent mIntent = new Intent(splash.this, mainapp.class);
             startActivity(mIntent);
             overridePendingTransition(0, R.anim.fade_out);
             finish();
-        }, 3000);
+        }, 3000); */
     }
 }

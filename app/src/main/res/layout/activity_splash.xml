@@ -5,17 +5,50 @@
     android:id="@+id/activity_splash"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="?attr/splash_bg">
+    android:background="@drawable/splash_background">
 
-    <ImageView
+    <TextView
+        android:id="@+id/splash_obj1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/splash_effect"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        android:layout_marginStart="202dp"
+        android:layout_marginTop="322dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/welcome"
+        android:textColor="?attr/text_bg"
+        android:textSize="80sp"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        tools:ignore="ContentDescription,ImageContrastCheck" />
+        tools:ignore="VisualLintBounds" />
+
+    <TextView
+        android:id="@+id/splash_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="202dp"
+        android:fontFamily="sans-serif"
+        android:text="00:00"
+        android:textColor="?attr/text_bg"
+        android:textSize="100sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/splash_obj1"
+        tools:ignore="HardcodedText,VisualLintBounds" />
+    <TextView
+
+        android:id="@+id/splash_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="202dp"
+        android:fontFamily="sans-serif"
+        android:text="30 / 30 / 3030"
+        android:textColor="?attr/text_bg"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/splash_time"
+        tools:ignore="HardcodedText,VisualLintBounds" />
+
+
 </android.support.constraint.ConstraintLayout>

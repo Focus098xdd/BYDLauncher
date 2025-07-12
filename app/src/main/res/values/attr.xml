@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <attr name="text_white" format="color|reference" />
-    <attr name="text_black" format="color|reference" />
-    <attr name="splash_bg" format="color|reference" />
-    <attr name="splash_bg2" format="color|reference" />
-    <attr name="splash_fg" format="color|reference" />
+    <attr name="text_btn" format="color|reference" />
+    <attr name="text_bg" format="color|reference" />
+    <attr name="btn_normal" format="color|reference"/>
+    <attr name="btn_pressed" format="color|reference"/>
+
 </resources>
