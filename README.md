@@ -5,8 +5,3 @@ Currently app are test on SL7🦭 and Dolphin🐬
 Lazy to Edit Video LOL
 
 # new ui design (in designing)
-splash ui
-![splash!](/img/design_splash.png)
-
-main ui
-![main!](/img/design_main.png)
